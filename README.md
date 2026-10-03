@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/msunilkumar2025-wq/leetcode/tree/master/0013-roman-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/msunilkumar2025-wq/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/msunilkumar2025-wq/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/msunilkumar2025-wq/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/msunilkumar2025-wq/leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/msunilkumar2025-wq/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -27,5 +29,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/msunilkumar2025-wq/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/msunilkumar2025-wq/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
