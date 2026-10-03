@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/msunilkumar2025-wq/leetcode/tree/master/0014-longest-common-prefix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/msunilkumar2025-wq/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -30,5 +31,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/msunilkumar2025-wq/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/msunilkumar2025-wq/leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/msunilkumar2025-wq/leetcode/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/msunilkumar2025-wq/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
